@@ -36,7 +36,6 @@ public class MyClient {
                 System.out.println(line);
             }
 
-
         } catch (Exception e) {
             e.printStackTrace();
         }
